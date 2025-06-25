@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@utility true-center {
+    @apply flex items-center justify-center h-screen w-full;
+}
