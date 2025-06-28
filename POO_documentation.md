@@ -1,5 +1,5 @@
 # Programmation Orientée Objet - Guide Simple
-
+<p style="text-align:center">Center</p>
 ## Qu'est-ce que la POO ?
 La POO (Programmation Orientée Objet) est une façon d'organiser le code en créant des "objets" qui représentent des choses du monde réel.
 
